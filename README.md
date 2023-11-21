@@ -3,6 +3,8 @@
 * Aqui encontraras las ppt de la charla, el dataset que se demostro en en la charla, el dashboard 📊
 * Y el enlace para acceder al dashboard en Power BI
 
+# Accede a la grabacion en Youtube 
+
 # Accede a las ppt de la charla
 * [Enlace directo a la descarga de las ppt ✅](https://drive.google.com/file/d/1hsCkF6VIz-cIc3aOe2vmBrhltAjOGNQM/view?usp=sharing)
 
