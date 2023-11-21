@@ -4,7 +4,7 @@
 * Y el enlace para acceder al dashboard en Power BI
 
 # Accede a la grabacion en Youtube 
-* [Enlace al youtube live](https://www.youtube.com/watch?v=CRkwt50K0qU&t=16652s)
+* [Enlace al youtube live 🌟](https://www.youtube.com/watch?v=CRkwt50K0qU&t=16652s)
   
 # Accede a las ppt de la charla
 * [Enlace directo a la descarga de las ppt ✅](https://drive.google.com/file/d/1hsCkF6VIz-cIc3aOe2vmBrhltAjOGNQM/view?usp=sharing)
